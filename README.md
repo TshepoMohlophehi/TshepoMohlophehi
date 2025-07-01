@@ -23,11 +23,15 @@
 - 🔹 [Memory Game](https://github.com/TshepoMohlophehi/emoji-memory-game) – React-based game using emojis and matching logic.
 - 🔹 [Visitor Management](https://github.com/TshepoMohlophehi/visitor-management-system) – Full-stack app for managing visitor entries.
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TshepoMohlophehi&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TshepoMohlophehi&layout=compact&theme=radical" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TshepoMohlophehi&show_icons=true&count_private=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TshepoMohlophehi&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TshepoMohlophehi&layout=compact&theme=radical" />
 </p>
 
 
